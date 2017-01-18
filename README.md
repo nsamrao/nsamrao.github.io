@@ -1,5 +1,5 @@
 # Nicole Samrao
-| [Linked In](https://www.linkedin.com/in/nicolesamrao) | [Github](github.com/nsamrao) | [Resume](https://www.google.com "Google's Homepage") |
+| [Linked In](https://www.linkedin.com/in/nicolesamrao) | [Github](github.com/nsamrao) | [Resume](https://github.com/nsamrao/nsamrao.github.io/blob/master/Resume.pdf) |
 ---
 ### I'm a recent college graduate with a wide range of internship experience in the tech industry. 
 
