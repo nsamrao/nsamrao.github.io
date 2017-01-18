@@ -1,5 +1,6 @@
 # Nicole Samrao's Portfolio
 | [Linked In](https://www.linkedin.com/in/nicolesamrao) | [Github](github.com/nsamrao) | [Resume](https://github.com/nsamrao/nsamrao.github.io/blob/master/Resume.pdf) |
+
 ---
 ### I'm a recent college graduate with a wide range of internship experience in the tech industry. 
 
@@ -19,7 +20,7 @@ Airbnb is a pioneer in the peer to peer market and a leader in the online hospit
 
 An investigation conducted using Pandas of Airbnb listing data to gain analytical insights to drive marketing strategy. Additionally, a linear model was created that utilizes Zillow's residential real estate data to predict price of Airbnb listings given the housing climate of a US city.
 
-*The packages used in this project are: matplotlib, pandas, numpy, statsmodels, scikit and seaborn*
+The packages used in this project are: matplotlib, pandas, numpy, statsmodels, scikit and seaborn
 ---
 ### Analysis of Boston Housing Prices
 An exploratory analysis of housing data in Boston neighborhoods using features such as room size, crime rate, demographics, and air quality. Also includes a statsmodels linear regression that predicts home price using these features. 
