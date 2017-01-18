@@ -1,4 +1,6 @@
 # Nicole Samrao's Portfolio
+
+
 # | [Linked In](https://www.linkedin.com/in/nicolesamrao) | [Github](github.com/nsamrao) | [Resume](https://github.com/nsamrao/nsamrao.github.io/blob/master/Resume.pdf) |
 
 ---
