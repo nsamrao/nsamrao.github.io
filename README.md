@@ -27,16 +27,23 @@ An investigation conducted using Pandas of Airbnb listing data to gain analytica
 *The packages used in this project are: matplotlib, pandas, numpy, statsmodels, scikit and seaborn*
 
 ---
-### Analysis of Boston Housing Prices
+
+### [An Analysis of Boston Housing Prices](https://nsamrao.github.io/Boston_Housing/)
 An exploratory analysis of housing data in Boston neighborhoods using features such as room size, crime rate, demographics, and air quality. Also includes a statsmodels linear regression that predicts home price using these features. 
 
-The packages used in this project are: matplotlib, pandas, numpy, scipy and seaborn
-Examining Racial Discrimination in the US Job Market(Link)
+*The packages used in this project are: matplotlib, pandas, numpy, scipy and seaborn*
+
+---
+
+### [Examining Racial Discrimination in the US Job Market](https://nsamrao.github.io/Racial_Discrimination/)
 Racial discrimination continues to be pervasive in cultures throughout the world. 
 This is a statistical examination using Pandas of the level of racial discrimination in the United States labor market by randomly assigning identical résumés to black-sounding or white-sounding names and observing the impact on requests for interviews from employers.
 
-The packages used in this project are: matplotlib, pandas, numpy and math
-Human Resources Analyics: Why are our best employees leaving?(Link)
+*The packages used in this project are: matplotlib, pandas, numpy and math*
+
+---
+
+### [Human Resources Analyics: Why are our best employees leaving?](https://nsamrao.github.io/HR_Analytics/)
 Using a dataset from Kaggle containing employee satisfaction levels, promotion information, hours worked, department information, employment status etc... to analyze what kinds of employees are leaving the company and why. 
 
-The packages used in this project are: matplotlib, pandas and numpy
+*The packages used in this project are: matplotlib, pandas and numpy*
