@@ -24,7 +24,7 @@ Airbnb is a pioneer in the peer to peer market and a leader in the online hospit
 
 An investigation conducted using Pandas of Airbnb listing data to gain analytical insights to drive marketing strategy. Additionally, a linear model was created that utilizes Zillow's residential real estate data to predict price of Airbnb listings given the housing climate of a US city.
 
-The packages used in this project are: matplotlib, pandas, numpy, statsmodels, scikit and seaborn
+*The packages used in this project are: matplotlib, pandas, numpy, statsmodels, scikit and seaborn
 
 ---
 ### Analysis of Boston Housing Prices
