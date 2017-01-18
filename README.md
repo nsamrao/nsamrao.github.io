@@ -14,14 +14,18 @@
 - Excel (Pivot Tables, Database Theory, Lookups, Solver, Large Scale Data), SQL 
 
 ---
+
 ## Projects: 
+
 ---
+
 ### [An Exploratory Analysis of the Airbnb Listing Market in U.S. Citites](https://nsamrao.github.io/Airbnb/)
 Airbnb is a pioneer in the peer to peer market and a leader in the online hospitality market. If we take a look into listing data in the U.S., what interesting trends can we find? What marketing and strategy suggestions can we make? 
 
 An investigation conducted using Pandas of Airbnb listing data to gain analytical insights to drive marketing strategy. Additionally, a linear model was created that utilizes Zillow's residential real estate data to predict price of Airbnb listings given the housing climate of a US city.
 
 The packages used in this project are: matplotlib, pandas, numpy, statsmodels, scikit and seaborn
+
 ---
 ### Analysis of Boston Housing Prices
 An exploratory analysis of housing data in Boston neighborhoods using features such as room size, crime rate, demographics, and air quality. Also includes a statsmodels linear regression that predicts home price using these features. 
